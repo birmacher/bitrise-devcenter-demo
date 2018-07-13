@@ -28,5 +28,5 @@ show_news: true
 menu:
   navigation:
     identifier: _index
-    weight: 1
+    weight: 3
 ---
